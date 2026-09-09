@@ -1,6 +1,9 @@
 # Changelog
 
 ## v1.1
+- Update default TCP Port to 23
+
+## v1.1
 - New Icon
 - Splash loading
 - Apps center first open
